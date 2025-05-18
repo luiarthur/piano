@@ -1,10 +1,12 @@
 # Site settings
-title: "Site Title"
-email: myemail@gmail.com
-description: "Put a description here"
-disqus_shortname: "" # defaults to "<github-user-name>githubio"
-# github_repo: https://github.com/<username>/<name-of-repo>
-# google_analytics: <put google analytics seo tag here>
+title: "Piano Lessons with Arthur Lui"
+short_title: "Piano with Arthur"
+email: luiarthur@gmail.com
+description: "Piano lessons with Arthur Lui"
+# disqus_shortname: "" # defaults to "<github-user-name>githubio"
+github_repo: https://github.com/luiarthur/piano
+google_analytics: G-RJBL4JRZQ8
+
 
 plugins:
   # search engine optimization
